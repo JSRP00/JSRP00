@@ -16,24 +16,24 @@
 
 ### Experience:
 
-Research Fellow at CARTIF (January 2024 - June 2024) in the Industrial and Digital Systems Division in the Area of
+- Research Fellow at CARTIF (January 2024 - June 2024) in the Industrial and Digital Systems Division in the Area of
 Industrial Solutions
 
-Production Assistant at the 38th Gala Goya Awards - Film Academy (February 2024)
+- Production Assistant at the 38th Gala Goya Awards - Film Academy (February 2024)
 
-Curricular internships in R&D linked to the Degree in Business Administration and Management in CARTIF (May 2023 - July 2023)
+- Curricular internships in R&D linked to the Degree in Business Administration and Management in CARTIF (May 2023 - July 2023)
 
-Cellar worker at Vinos Telmo Rodríguez (October 2022)
+- Cellar worker at Vinos Telmo Rodríguez (October 2022)
 
-Curricular Internship in Programme Management linked to the Degree in Industrial Organisation Engineering at MPB Aerospace (June 2022 - August 2022)
+- Curricular Internship in Programme Management linked to the Degree in Industrial Organisation Engineering at MPB Aerospace (June 2022 - August 2022)
 
-Cellar worker at Vinos Telmo Rodríguez (October 2021)
+- Cellar worker at Vinos Telmo Rodríguez (October 2021)
 - - -
 
 ### Projects
 
-BEng Thesis: Modelling and simulation of traffic management in Valladolid for its optimisation. 
+- BEng Thesis: Modelling and simulation of traffic management in Valladolid for its optimisation. 
 
-BBA Thesis: Analysis of corporate values in the IBEX 35 companies.
+- BBA Thesis: Analysis of corporate values in the IBEX 35 companies.
 
-Teletandem: Socio-cultural and educational project in collaboration with the University of Washington (UW) in Seattle, USA.
+- Teletandem: Socio-cultural and educational project in collaboration with the University of Washington (UW) in Seattle, USA.
