@@ -3,7 +3,7 @@
   <h1 align="center">Hi 👋, I´m Jorge Santiago</h1>
   <h3 align="center"> a final year student in the Double Degree of Industrial Management Engineering and Business Administration.</h3>
 </div>
----
+- - -
 
 ### About me:
 
