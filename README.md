@@ -1,6 +1,7 @@
 ### Hi there 👋
 <div id=header align="center">
-  <ing src=[https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fdisney-amino-espanol-2%2Fpage%2Fitem%2Fkoda%2FZ6Pz_batXI0056X146P0LBaqkekBvJqLLB&psig=AOvVaw0kmecUor0x-WxJTxkzg-92&ust=1716047215920000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjg-piElYYDFQAAAAAdAAAAABAp ](https://64.media.tumblr.com/70d7f668647eb9abcf1dbad38b0d1482/tumblr_o6z4vbyoYS1tu8sz5o1_640.gif) 
+  <ing src=![tumblr_m9odfzjhPh1qm6oc3o1_500](https://github.com/JSRP00/JSRP00/assets/169235907/eaccd3c4-2639-42bb-8629-42f6343ecdb0)
+
 <!--
 **JSRP00/JSRP00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
