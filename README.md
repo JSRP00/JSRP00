@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id=header align="center">
-  <ing src="https://disneysbrotherbear.tumblr.com/tumblr_m9odfzjhPh1qm6oc3o1_500.gif" widht="200" />
+  <ing src="[https://disneysbrotherbear.tumblr.com/tumblr_m9odfzjhPh1qm6oc3o1_500.gif](https://64.media.tumblr.com/tumblr_m9odfzjhPh1qm6oc3o1_500.gif)" widht="200" />
 
 <!--
 **JSRP00/JSRP00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
