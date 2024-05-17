@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I love outdoor team sports.
 - - -
 
-### CV:
+### Experience:
 
 Research Fellow at CARTIF (January 2024 - June 2024) in the Industrial and Digital Systems Division in the Area of
 Industrial Solutions
@@ -28,3 +28,12 @@ Cellar worker at Vinos Telmo Rodríguez (October 2022)
 Curricular Internship in Programme Management linked to the Degree in Industrial Organisation Engineering at MPB Aerospace (June 2022 - August 2022)
 
 Cellar worker at Vinos Telmo Rodríguez (October 2021)
+- - -
+
+### Projects
+
+BEng Thesis: Modelling and simulation of traffic management in Valladolid for its optimisation. 
+
+BBA Thesis: Analysis of corporate values in the IBEX 35 companies.
+
+Teletandem: Socio-cultural and educational project in collaboration with the University of Washington (UW) in Seattle, USA.
