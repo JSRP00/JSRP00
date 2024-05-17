@@ -5,10 +5,10 @@
 <!--
 **JSRP00/JSRP00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-About me:
+### About me:
 
 - 🔭 I’m currently working on at the Centre for Automation, Robotics and Information and Manufacturing Technologies based in the Technological Park of Boecillo, Valladolid, Spain.
 - 🌱 I’m currently learning about discrete element simulation as a research fellow.
 - 💬 Ask me about Engineering/Management/Economics
-- 📫 How to reach me: jspenalosa@icloud.com
+- 📫 How to reach me: **jspenalosa@icloud.com**
 - ⚡ Fun fact: I love outdoor team sports.
