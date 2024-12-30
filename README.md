@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Skills
+## 🛠️ Skills
 #### Programming:
 - **Python:** NumPy, Pandas, Matplotlib  
 - **SQL:** Query optimization, relational databases  
@@ -40,8 +40,23 @@
 
 ---
 
-### 🌐 Connect with Me
+### 📫 Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/jorge-santiago-rodríguez-peñalosa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:jorgesantiagorodriguezpenalosa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
+
+---
+
+## 📈 GitHub Stats
+
+![JSRP00's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSRP00&show_icons=true&theme=radical)
+
+---
+
+### 📝 Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
