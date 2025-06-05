@@ -1,16 +1,16 @@
 <div id="header" align="center">
   <img src="https://64.media.tumblr.com/tumblr_m9odfzjhPh1qm6oc3o1_500.gif" width="200" />
   <h1 align="center">Hi 👋, I´m Jorge Santiago</h1>
-  <h3 align="center">Double Bachelor's Degree in Industrial Engineering and Business Administration</h3>
-  <p align="center">🚀 Expertise in Data Analysis, Visualization, and Problem Solving</p>
+  <h3 align="center">MSc & BEng & BBA</h3>
+  <p align="center">🚀 Master's Degree in Big Data Science - Double Bachelor’s Degree in Industrial Engineering and Business Administration</p>
 </div>
 
 ---
 
 ### 🚀 About Me
 - 🌍 **Based in:** Valladolid, Spain  
-- 📚 **Currently pursuing:** Master's in Big Data Science  
-- 👨‍💻 **Professional Role:** Research Assistant at CARTIF  
+- 👨‍💻 **Professional Role:** Research Engineer at CARTIF  
+- 📚 **Currently:** I combine my master's studies with my work as a researcher  
 - 🎓 **Key Interests:** Data Science, Research, and Economic Analysis  
 
 ---
