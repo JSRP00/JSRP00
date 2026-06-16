@@ -1,19 +1,20 @@
 <div id="header" align="center">
   <img src="https://64.media.tumblr.com/tumblr_m9odfzjhPh1qm6oc3o1_500.gif" width="200" />
   <h1 align="center">Hi 👋, I´m Jorge Santiago</h1>
-  <h3 align="center">MSc in Big Data Science & AI | BEng & BBA</h3>
-  <p align="center">🚀 Research Engineer | Data Science Enthusiast | Project-Driven Learner</p>
+  <h3 align="center">PhD Applied Engineering | MSc & BEng & BBA</h3>
+  <p align="center">🚀 PhD Student | Research Engineer | Data Sciencist </p>
 </div>
 
 ---
 
 ### 🧠 About Me
-- 📍 **Based in:** Valladolid, Spain  
-- 👨‍🔬 **Current Role:** Research Engineer at CARTIF  
-- 🎓 **Academic Background:**  
+- 📍 **Based in:** San Sebastian, Spain  
+- 👨‍🔬 **Current Role:** PhD Researcher at Tecnun 
+- 🎓 **Academic Background:**
+  - PhD in Applied Engineering
   - MSc in Big Data Science & Artificial Intelligence  
   - Double Bachelor’s Degree in Industrial Engineering and Business Administration  
-- 🔍 **Main Interests:** Data Science, Machine Learning, Python Development, and Applied Research  
+- 🔍 **Main Interests:** Data Science, Artificial Intelligence, Statistics, and Applied Research  
 
 ---
 
@@ -35,6 +36,8 @@
 ---
 
 ### 🚀 Highlight Projects
+
+#### AI-Enhanced SPC in Manufacturing
 
 #### 📊 Mutual Information Estimation Library
 Python library for estimating mutual information and quantifying uncertainty using conformal prediction.  
