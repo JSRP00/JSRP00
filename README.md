@@ -1,4 +1,7 @@
-## Jorge Santiago Rodríguez Peñalosa
+<div align="center">
+  <img src="https://64.media.tumblr.com/tumblr_m9odfzjhPh1qm6oc3o1_500.gif" width="200" />
+  <h2>Jorge Santiago Rodríguez Peñalosa</h2>
+</div>
 
 PhD Candidate in Applied Engineering at [Tecnun – University of Navarra](https://www.unav.edu/en/web/tecnun) (San Sebastián, Spain).
 
