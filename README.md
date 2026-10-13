@@ -14,7 +14,7 @@ My research studies how machine learning is being combined with Statistical Proc
 **[mutualinfo](https://github.com/JSRP00/mutualinfo)** – Python package for mutual information estimation and uncertainty quantification (MSc thesis, supervised by the Institute of Data Science and Artificial Intelligence, DATAI, University of Navarra).
 Kraskov (k-NN), KDE and histogram estimators, with bootstrap confidence intervals and conformal prediction intervals.
 
-**[ai-spc](https://github.com/JSRP00/ai-spc)** – Interactive web summary of a review of 342 studies on AI-enhanced SPC in manufacturing (1988–2026), in Spanish ([live demo](https://jsrp00.github.io/ai-spc/)).
+**[ai-spc](https://github.com/JSRP00/ai-spc)** – Interactive web summary of a review of 342 studies on AI-enhanced SPC in manufacturing (1988–2026) ([live demo](https://jsrp00.github.io/ai-spc/)).
 
 **Course projects (MSc):** [Onboarding-AI-Assistant](https://github.com/JSRP00/Onboarding-AI-Assistant) – RAG assistant over HR documents (sentence-transformers, FAISS, OpenAI) · [Python_ProyectoTradingDashboard](https://github.com/JSRP00/Python_ProyectoTradingDashboard) – Dash dashboard with technical indicators on Kraken market data.
 
