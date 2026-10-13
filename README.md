@@ -11,6 +11,9 @@ My research studies how machine learning is being combined with Statistical Proc
 
 ### Projects
 
+**[tep-process-monitoring](https://github.com/JSRP00/tep-process-monitoring)** – Fault detection benchmark on the Tennessee Eastman Process: PCA, dynamic PCA, autoencoders, one-class SVM, LOF and Isolation Forest, compared at the same false alarm rate.
+Also shows that control limits set on training data give far more false alarms than they promise, and that calibrating them on held-out normal data largely corrects this.
+
 **[mutualinfo](https://github.com/JSRP00/mutualinfo)** – Python package for mutual information estimation and uncertainty quantification (MSc thesis, supervised by the Institute of Data Science and Artificial Intelligence, DATAI, University of Navarra).
 Kraskov (k-NN), KDE and histogram estimators, with bootstrap confidence intervals and conformal prediction intervals.
 
