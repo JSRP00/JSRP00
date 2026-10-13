@@ -16,6 +16,8 @@ Kraskov (k-NN), KDE and histogram estimators, with bootstrap confidence interval
 
 **[ai-spc](https://github.com/JSRP00/ai-spc)** – Interactive web summary of a review of 342 studies on AI-enhanced SPC in manufacturing (1988–2026), in Spanish ([live demo](https://jsrp00.github.io/ai-spc/)).
 
+**Course projects (MSc):** [Onboarding-AI-Assistant](https://github.com/JSRP00/Onboarding-AI-Assistant) – RAG assistant over HR documents (sentence-transformers, FAISS, OpenAI) · [Python_ProyectoTradingDashboard](https://github.com/JSRP00/Python_ProyectoTradingDashboard) – Dash dashboard with technical indicators on Kraken market data.
+
 ### Publications
 
 Rodríguez Peñalosa, J. S., & Viles, E. (2026). From Shewhart's Control Charts to AI-Enhanced Statistical Process Control in Manufacturing. *Advances in Production Management Systems (APMS 2026)*, Bergamo, Italy. Springer.
