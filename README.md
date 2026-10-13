@@ -28,4 +28,4 @@ Python (NumPy, pandas, scikit-learn, TensorFlow/Keras, Matplotlib) · SQL · MAT
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/jorge-santiago-rodr%C3%ADguez-pe%C3%B1alosa/) · [jorgerodriguezp@unav.es](mailto:jorgerodriguezp@unav.es)
+[LinkedIn](https://www.linkedin.com/in/jorge-santiago-rodr%C3%ADguez-pe%C3%B1alosa/) · [ORCID](https://orcid.org/0009-0007-1539-198X) · [Google Scholar](https://scholar.google.es/citations?user=-_IyYkwAAAAJ) · [jorgerodriguezp@unav.es](mailto:jorgerodriguezp@unav.es)
