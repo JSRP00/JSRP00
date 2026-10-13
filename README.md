@@ -1,90 +1,26 @@
-<div id="header" align="center">
-  <img src="https://64.media.tumblr.com/tumblr_m9odfzjhPh1qm6oc3o1_500.gif" width="200" />
-  <h1 align="center">Hi 👋, I´m Jorge Santiago</h1>
-  <h3 align="center">PhD Applied Engineering | MSc & BEng & BBA</h3>
-  <p align="center">🚀 PhD Student | Research Engineer | Data Sciencist </p>
-</div>
+## Jorge Santiago Rodríguez Peñalosa
 
----
+PhD Candidate in Applied Engineering at [Tecnun – University of Navarra](https://www.unav.edu/en/web/tecnun) (San Sebastián, Spain).
 
-### 🧠 About Me
-- 📍 **Based in:** San Sebastian, Spain  
-- 👨‍🔬 **Current Role:** PhD Researcher at Tecnun 
-- 🎓 **Academic Background:**
-  - PhD in Applied Engineering
-  - MSc in Big Data Science & Artificial Intelligence  
-  - Double Bachelor’s Degree in Industrial Engineering and Business Administration  
-- 🔍 **Main Interests:** Data Science, Artificial Intelligence, Statistics, and Applied Research  
+My research studies how machine learning is being combined with Statistical Process Control (SPC) in manufacturing, and how far these methods have reached industrial practice. Background in Industrial Engineering and Business Administration, with an MSc in Big Data Science.
 
----
+**Research interests:** statistical process monitoring, machine learning for industrial processes, anomaly detection, information theory.
 
-### 🛠️ Skills & Tools
+### Projects
 
-**Programming Languages**  
-- Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, TensorFlow/Keras)  
-- SQL (PostgreSQL, MySQL)
+**[mutualinfo](https://github.com/JSRP00/mutualinfo)** – Python package for mutual information estimation and uncertainty quantification (MSc thesis, supervised by the Institute of Data Science and Artificial Intelligence, DATAI, University of Navarra).
+Kraskov (k-NN), KDE and histogram estimators, with bootstrap confidence intervals and conformal prediction intervals.
 
-**Data & ML**  
-- Data Wrangling, EDA, Statistical Modeling  
-- Machine Learning, Deep Learning, Clustering  
-- Dashboards: Tableau, Power BI  
+**[ai-spc](https://github.com/JSRP00/ai-spc)** – Interactive web summary of a review of 342 studies on AI-enhanced SPC in manufacturing (1988–2026), in Spanish ([live demo](https://jsrp00.github.io/ai-spc/)).
 
-**Other Tools**  
-- Git & GitHub | Jupyter | Docker | VSCode  
-- LangChain | RAG | OpenAI APIs  
+### Publications
 
----
+Rodríguez Peñalosa, J. S., & Viles, E. (2026). From Shewhart's Control Charts to AI-Enhanced Statistical Process Control in Manufacturing. *Advances in Production Management Systems (APMS 2026)*, Bergamo, Italy. Springer.
 
-### 🚀 Highlight Projects
+### Tools
 
-#### AI-Enhanced SPC in Manufacturing
+Python (NumPy, pandas, scikit-learn, TensorFlow/Keras, Matplotlib) · SQL · MATLAB · Minitab · Git · Jupyter · Tableau · Power BI
 
-#### 📊 Mutual Information Estimation Library
-Python library for estimating mutual information and quantifying uncertainty using conformal prediction.  
-**Core goals:**  
-- Evaluate classical and modern estimators (k-NN, KDE, MINE)  
-- Generate synthetic datasets with known I(X;Y)  
-- Implement prediction intervals for robust scientific use  
-**Outcome:** Modular and reproducible open-source package for researchers and practitioners.
+### Contact
 
-#### 🛣️ Traffic Flow Optimization  
-Simulation of origin-destination matrices to model and optimize urban mobility in Valladolid.  
-**Tools:** Python, SimPy, NumPy  
-
-#### 📈 Corporate Values Analysis in IBEX 35  
-A business analysis of declared corporate values in the Spanish stock market.  
-**Methods:** Qualitative coding, trend extraction, visualization
-
----
-
-### 💡 Ongoing Learning
-- Advanced Deep Learning Architectures  
-- Information Theory & Estimation  
-- NLP with Transformers and LLMs  
-- Applied GenAI for real-world solutions  
-
----
-
-### 📫 Let’s Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jorge-santiago-rodríguez-peñalosa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-![JSRP00's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSRP00&show_icons=true&theme=radical)
-
----
-
-### ✍️ Blog & Publications
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-Thanks for visiting my profile! Feel free to explore my repositories or reach out for potential collaborations.
+[LinkedIn](https://www.linkedin.com/in/jorge-santiago-rodr%C3%ADguez-pe%C3%B1alosa/) · [jorgerodriguezp@unav.es](mailto:jorgerodriguezp@unav.es)
